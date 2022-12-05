@@ -1,9 +1,10 @@
 <?php
-    include("./lib.php");
+    include("./shorting_code/lib.php");
 
-    include("./rest/navbar.php");
-    include("./rest/hero.php");
-    include("./rest/features.php");
-    include("./rest/models.php");
-    include("./rest/bfooter.php");
-    include("./rest/footer.php");
+    include("./theme/header.php");
+    include("./theme/navbar.php");
+    include("./sections/hero.php");
+    include("./sections/features.php");
+    include("./sections/testimonials.php");
+    include("./sections/cta_section.php");
+    include("./theme/footer.php");

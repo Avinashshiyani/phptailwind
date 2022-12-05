@@ -2,7 +2,7 @@
 function button($name, $color = "orange")
 {
   echo '
-  <a href="#" class="hidden md:block px-6  p-3  pt-2 rounded text-white bg-' . $color . '-500 rounded-full hover:bg-orange-400">' . $name . ' </a>
+  <a href="#" class="p-3 px-6 pt-3 text-white bg-orange-600 rounded-full baseline hover:bg-orange-400">' . $name . ' </a>
   ';
 }
 
