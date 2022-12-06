@@ -26,11 +26,9 @@ function img_btn($names)
 function loop($text, $names)
 {
   $data = "";
-
   foreach ($names as $name) {
     $data .= sprintf($text, $name);
   }
-
   return $data;
 }
 //finally done
