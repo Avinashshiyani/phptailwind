@@ -22,7 +22,6 @@ function img_btn($names)
   $button = '<a href="#"><img src="./images/icon-%s.svg" alt="image"></a>';
   echo (is_array($names)) ? loop($button, $names) : sprintf($button, $names);
 }
-
 function loop($text, $names)
 {
   $data = "";

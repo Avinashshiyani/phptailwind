@@ -2,25 +2,25 @@
 
     $datas = [
         [
-        "title"=>"Anisha li",
-        "details"=>"Manage makes it simle for software teams to plan day-to-day
-        tasks while keeping the larger
-        teams goals in view .",
-        "img"=>"images/avatar-anisha.png"
+                "title" => "Anisha li",
+                "details" => "Manage makes it simle for software teams to plan day-to-day
+                tasks while keeping the larger
+                teams goals in view .",
+                "img" => "images/avatar-anisha.png"
         ],
         [
-        "title"=>"Ali Bravo",
-        "details"=>"Manage makes it simle for software teams to plan day-to-day
-        tasks while keeping the larger
-        teams goals in view .",
-        "img"=>"images/avatar-ali.png"
+                "title" => "Ali Bravo",
+                "details" => "Manage makes it simle for software teams to plan day-to-day
+                tasks while keeping the larger
+                teams goals in view .",
+                "img" => "images/avatar-ali.png"
         ],
         [
-            "title"=>"Richard Whatts",
-            "details"=>"Manage makes it simle for software teams to plan day-to-day
-            tasks while keeping the larger
-            teams goals in view .",
-            "img"=>"images/avatar-richard.png"
+                "title" => "Richard Whatts",
+                "details" => "Manage makes it simle for software teams to plan day-to-day
+                tasks while keeping the larger
+                teams goals in view .",
+                "img" => "images/avatar-richard.png"
         ],
     ]
 
