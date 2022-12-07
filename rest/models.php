@@ -8,10 +8,9 @@
                      </div>
                      <!-- button -->
                      <div class="my-16">
-                        <a href="#" 
-                        class="px-6  p-3  pt-2 rounded text-white bg-orange-500 rounded-full hover:bg-orange-400">
-                        Get Started
-                        </a>
+                        
+                     <?php button("Get Started"); ?>
+
                      </div>
                 </div>
             </section>
